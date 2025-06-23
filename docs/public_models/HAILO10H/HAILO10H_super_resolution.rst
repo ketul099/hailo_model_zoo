@@ -50,11 +50,6 @@ BSD100
      - Input Resolution (HxWxC)
      - Params (M)
      - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report    
    * - espcn_x2   
      - 31.22
      - 30.77
@@ -99,11 +94,6 @@ N/A
      - Input Resolution (HxWxC)
      - Params (M)
      - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report    
    * - real_esrgan_x2   
      - 28.27
      - 27.66

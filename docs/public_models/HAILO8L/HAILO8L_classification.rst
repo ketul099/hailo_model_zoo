@@ -50,11 +50,6 @@ ImageNet
      - Input Resolution (HxWxC)
      - Params (M)
      - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report    
    * - cas_vit_m   
      - 81.2
      - 81.06

@@ -49,12 +49,7 @@ COCO
      - Links
      - Input Resolution (HxWxC)
      - Params (M)
-     - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report      
+     - OPS (G) 
    * - mspn_regnetx_800mf  |star| 
      - 70.8
      - 69.89

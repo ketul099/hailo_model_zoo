@@ -50,11 +50,6 @@ COCO
      - Input Resolution (HxWxC)
      - Params (M)
      - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report    
    * - yolact_regnetx_1.6gf   
      - 27.57
      - 27.24

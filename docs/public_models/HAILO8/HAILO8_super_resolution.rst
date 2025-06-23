@@ -49,12 +49,7 @@ BSD100
      - Links
      - Input Resolution (HxWxC)
      - Params (M)
-     - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report    
+     - OPS (G) 
    * - espcn_x2   
      - 31.22
      - 30.77
@@ -98,12 +93,7 @@ N/A
      - Links
      - Input Resolution (HxWxC)
      - Params (M)
-     - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report    
+     - OPS (G) 
    * - real_esrgan_x2   
      - 28.27
      - 27.66

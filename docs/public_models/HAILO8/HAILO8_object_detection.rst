@@ -49,12 +49,7 @@ COCO
      - Links
      - Input Resolution (HxWxC)
      - Params (M)
-     - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report    
+     - OPS (G)   
    * - centernet_resnet_v1_18_postprocess   
      - 26.37
      - 24.95

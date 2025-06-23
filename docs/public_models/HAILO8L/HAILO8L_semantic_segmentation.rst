@@ -50,11 +50,6 @@ Cityscapes
      - Input Resolution (HxWxC)
      - Params (M)
      - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report    
    * - fcn8_resnet_v1_18   
      - 69.41
      - 69.25
@@ -98,12 +93,7 @@ Oxford-IIIT Pet
      - Links
      - Input Resolution (HxWxC)
      - Params (M)
-     - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report    
+     - OPS (G)   
    * - unet_mobilenet_v2   
      - 77.32
      - 77.11
@@ -130,11 +120,6 @@ Pascal VOC
      - Input Resolution (HxWxC)
      - Params (M)
      - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report    
    * - deeplab_v3_mobilenet_v2   
      - 76.04
      - 74.58

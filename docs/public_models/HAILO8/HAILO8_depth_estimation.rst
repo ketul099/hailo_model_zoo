@@ -49,12 +49,7 @@ NYU
      - Links
      - Input Resolution (HxWxC)
      - Params (M)
-     - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report        
+     - OPS (G)     
    * - fast_depth  |star| 
      - 0.6
      - 0.61

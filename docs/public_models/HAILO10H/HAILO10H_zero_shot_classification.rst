@@ -43,13 +43,10 @@ CIFAR100
    * - Network Name
      - FPS (Batch Size=1)
      - FPS (Batch Size=8)
+     - Links
      - Input Resolution (HxWxC)
      - Params (M)
      - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report    
    * - clip_resnet_50_image_encoder   
      - 0
      - 0

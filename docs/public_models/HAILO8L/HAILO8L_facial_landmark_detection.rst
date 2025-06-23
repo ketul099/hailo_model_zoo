@@ -50,11 +50,6 @@ AFLW2k3d
      - Input Resolution (HxWxC)
      - Params (M)
      - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report        
    * - tddfa_mobilenet_v1  |star| 
      - 3.68
      - 4.04
@@ -74,13 +69,10 @@ Face Landmark
    * - Network Name
      - FPS (Batch Size=1)
      - FPS (Batch Size=8)
+     - Links
      - Input Resolution (HxWxC)
      - Params (M)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report    
+     - OPS (G) 
    * - face_landmarks_lite   
      - 0
      - 0

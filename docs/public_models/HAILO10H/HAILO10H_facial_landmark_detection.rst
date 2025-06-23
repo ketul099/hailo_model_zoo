@@ -49,12 +49,7 @@ AFLW2k3d
      - Links
      - Input Resolution (HxWxC)
      - Params (M)
-     - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report        
+     - OPS (G)      
    * - tddfa_mobilenet_v1  |star| 
      - 3.68
      - 4.04

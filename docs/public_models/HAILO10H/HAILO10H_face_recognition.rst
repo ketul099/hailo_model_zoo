@@ -49,12 +49,7 @@ LFW
      - Links
      - Input Resolution (HxWxC)
      - Params (M)
-     - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report      
+     - OPS (G)     
    * - arcface_mobilefacenet  |star| 
      - 99.43
      - 99.43

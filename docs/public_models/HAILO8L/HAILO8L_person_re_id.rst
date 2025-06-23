@@ -49,12 +49,7 @@ Market1501
      - Links
      - Input Resolution (HxWxC)
      - Params (M)
-     - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report    
+     - OPS (G) 
    * - osnet_x1_0   
      - 94.43
      - 93.67

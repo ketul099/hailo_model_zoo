@@ -49,12 +49,7 @@ KITTI Stereo 2015
      - Links
      - Input Resolution (HxWxC)
      - Params (M)
-     - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report    
+     - OPS (G) 
    * - stereonet   
      - 8.22
      - 5.76

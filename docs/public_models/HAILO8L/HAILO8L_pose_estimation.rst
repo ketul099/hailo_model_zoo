@@ -49,12 +49,7 @@ COCO
      - Links
      - Input Resolution (HxWxC)
      - Params (M)
-     - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report      
+     - OPS (G)    
    * - centerpose_regnetx_1.6gf_fpn  |star| 
      - 53.54
      - 53.54

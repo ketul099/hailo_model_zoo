@@ -49,12 +49,7 @@ PETA
      - Links
      - Input Resolution (HxWxC)
      - Params (M)
-     - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report    
+     - OPS (G) 
    * - person_attr_resnet_v1_18   
      - 82.5
      - 82.43

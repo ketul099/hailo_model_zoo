@@ -84,8 +84,7 @@ N/A
      - Links
      - Input Resolution (HxWxC)
      - Params (M)
-     - OPS (G)
-     - Profile Report      
+     - OPS (G)    
    * - lprnet  |star| 
      - 99.86
      - 99.86

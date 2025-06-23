@@ -49,12 +49,7 @@ LOL
      - Links
      - Input Resolution (HxWxC)
      - Params (M)
-     - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report    
+     - OPS (G)   
    * - zero_dce   
      - 16.23
      - 16.22

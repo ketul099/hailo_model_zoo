@@ -49,12 +49,7 @@ CELEBA
      - Links
      - Input Resolution (HxWxC)
      - Params (M)
-     - OPS (G)
-     - OPS (G)
-     - Pretrained
-     - Source
-     - Compiled
-     - Profile Report    
+     - OPS (G) 
    * - face_attr_resnet_v1_18   
      - 81.19
      - 80.78

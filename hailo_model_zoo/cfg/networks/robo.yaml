@@ -1,0 +1,14 @@
+compiler:
+  target_device: hailo8l
+parser:
+  framework: tensorflow
+  inputs:
+  - serving_default_input_1
+  model_path: C:/Users/KetulP/Desktop/New_folder\robot_drive
+  outputs:
+  - StatefulPartitionedCall
+  tf_input_shapes:
+  - - 1
+    - 480
+    - 640
+    - 3

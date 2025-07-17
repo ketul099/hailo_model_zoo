@@ -1,0 +1,12 @@
+base:
+  - base/base_ketul.yaml
+
+evaluation:
+  dataset_name: direction_classes
+  labels_offset: 0
+  classes: 19
+  data_set: workspace/val_images.tfrecord
+
+quantization:
+  calib_set:
+    - workspace/calib_images.tfrecord

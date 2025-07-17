@@ -1,0 +1,16 @@
+new_normalization1 = normalization([127.5, 127.5, 127.5], [127.5, 127.5, 127.5])
+
+post_quantization_optimization(
+    finetune,
+    policy=enabled,
+    dataset_size=4665,
+    epochs=5,
+    learning_rate=0.0001,
+    loss_layer_names=[fc1_d0],
+    loss_factors=[1.0],
+    loss_types=[l2]
+)
+
+model_optimization_flavor(compression_level=0)
+
+performance_param(compiler_optimization_level=max)

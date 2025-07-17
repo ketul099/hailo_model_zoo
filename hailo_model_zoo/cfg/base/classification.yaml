@@ -1,0 +1,18 @@
+preprocessing:
+  network_type: classification
+  meta_arch: direction_classifier
+
+postprocessing:
+  meta_arch: classification
+  score_threshold: 0.5
+  hpp: false
+
+parser:
+  normalization_params:
+    normalize_in_net: true
+    mean_list: [127.5, 127.5, 127.5]
+    std_list: [127.5, 127.5, 127.5]
+
+
+info:
+  source: local

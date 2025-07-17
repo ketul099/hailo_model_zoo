@@ -1,0 +1,41 @@
+base:
+  - base/base_ketul.yaml
+
+preprocessing:
+  network_type: classification
+  meta_arch: mobilenet
+
+network:
+  network_name: direction_classifier
+
+paths:
+  alls_script: direction_classifier.alls
+  network_path:
+    - /workspace/direction_classifier_model.tflite
+  url: https://your-model-download-url-if-any
+
+parser:
+  nodes:
+    - serving_default_rescaling_input:0
+    - StatefulPartitionedCall:0
+
+postprocessing:
+  device_pre_post_layers:
+    softmax: true
+    argmax: true
+    nms: false
+    bilinear: false
+  meta_arch: classification
+
+info:
+  task: classification
+  input_shape: 224x224x3
+  output_shape: 1x19
+  operations: 280M
+  parameters: ~1.5M
+  framework: tensorflow
+  training_data: three_cam dataset
+  eval_metric: accuracy
+  full_precision_result: unknown
+  source: local
+  license_name: MIT
